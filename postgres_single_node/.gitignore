@@ -1,3 +1,4 @@
 data/
 etc/
 etc_cassandra-4.0.3_vanilla/
+.env
